@@ -1,10 +1,10 @@
 # Blockchain
 
-Build a blockchain application and also blockchain network. 
+Build a blockchain application. 
 
 1. [Install Hyperledger Prerequisites](PREREQUISITES.md)
 2. [Writing Your First Application](BLOCKCHAIN-APP.md)
-3. (Optional) [Build Your First Network (Hyperledger Fabric)](HYPERLEDGER-FABRIC.md)
+
 
 
 ## Submission Instruction
